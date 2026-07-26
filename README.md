@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Spark y PySpark Essentials
 
 Los participantes serán capaces de integrar la ejecución de consultas para carga, transformaciones de volúmenes grandes de datos en Apache Spark con código Python y utilizar el lenguaje SQL de Spark.
@@ -62,8 +64,15 @@ Los participantes serán capaces de integrar la ejecución de consultas para car
   - Descripción: Realizar practica 9. uso de funciones en spark sql en el contexto de los contenidos del Capítulo 10. Funciones en Spark SQL.
   - Duración estimada: 60 min
 
-## Flujo de colaboración
+------------
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+
+## 📬 Contacto y más información
+
+Si tienes alguna pregunta o necesitas soporte durante la realización de los laboratorios, no dudes en **contactar al equipo de Netec**. También puedes encontrar más recursos y cursos en nuestra página oficial:
+
+👉 https://netec.com
+
+---
+
+¡Bienvenido! Te recomendamos realizar los laboratorios en el orden presentado, ya que cada práctica construye la infraestructura y los conocimientos necesarios para la siguiente, culminando con un escenario completo de migración y operación.
