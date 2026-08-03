@@ -16,49 +16,49 @@ Los participantes serán capaces de integrar la ejecución de consultas para car
 
 ### Capítulo 3
 
-- [Creación de RDD en PySpark](Capitulo03/README.md#creación-de-rdd-en-pyspark)
+- [Creación de RDD en PySpark](Capítulo3/README.md)
   - Descripción: Realizar practica 2. creación de rdd en pyspark en el contexto de los contenidos del Capítulo 3. RDD en Spark.
   - Duración estimada: 60 min
 
 ### Capítulo 4
 
-- [DataFrames en PySpark](Capitulo04/README.md#dataframes-en-pyspark)
+- [DataFrames en PySpark](Capítulo4/README.md)
   - Descripción: Realizar practica 3. dataframes en pyspark en el contexto de los contenidos del Capítulo 4. DataFrames.
   - Duración estimada: 60 min
 
 ### Capítulo 5
 
-- [Uso de SQL con DataFrames, cálculos y operaciones con columnas y  transformaciones](Capitulo05/README.md)
+- [Uso de SQL con DataFrames, cálculos y operaciones con columnas y  transformaciones](Capítulo5/README.md)
   - Descripción: Realizar practica 4. uso de sql con dataframes, cálculos y operaciones con columnas y  transformaciones en el contexto de los contenidos del Capítulo 5. Spark SQL y DataFrames.
   - Duración estimada: 90 min
 
 ### Capítulo 6
 
-- [Uso de funciones de transformación](Capitulo06/README.md#uso-de-funciones-de-transformación)
+- [Uso de funciones de transformación](Capítulo6/README.md)
   - Descripción: Realizar practica 5. uso de funciones de transformación en el contexto de los contenidos del Capítulo 6. Transformaciones.
   - Duración estimada: 40 min
 
 ### Capítulo 7
 
-- [Uso de acciones y funciones ejecutables en PySpark](Capitulo07/README.md)
+- [Uso de acciones y funciones ejecutables en PySpark](Capítulo7/README.md)
   - Descripción: Realizar practica 6. Uso de acciones y funciones ejecutables en PySpark en el contexto de los contenidos del Capítulo 7.
   - Duración estimada: 45 min
 
 ### Capítulo 8
 
-- [Optimización del procesamiento distribuido con características avanzadas de Spark](Capitulo08/README.md)
+- [Optimización del procesamiento distribuido con características avanzadas de Spark](Capítulo8/README.md)
   - Descripción: Realizar practica 7. optimización del procesamiento distribuido con características avanzadas de Spark en el contexto de los contenidos del Capítulo 8.
   - Duración estimada: 40 min
 
 ### Capítulo 9
 
-- [Uso de agregaciones, agrupaciones y relaciones](Capitulo09/README.md)
+- [Uso de agregaciones, agrupaciones y relaciones](Capítulo9/README.md)
   - Descripción: Realizar practica 8. uso de agregaciones, agrupaciones y relaciones en el contexto de los contenidos del Capítulo 9. Spark SQL Avanzado.
   - Duración estimada: 60 min
 
 ### Capítulo 10
 
-- [Uso de funciones en Spark SQL](Capitulo10/README.md)
+- [Uso de funciones en Spark SQL](Capítulo10/README.md)
   - Descripción: Realizar practica 9. uso de funciones en spark sql en el contexto de los contenidos del Capítulo 10. Funciones en Spark SQL.
   - Duración estimada: 60 min
 
