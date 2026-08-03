@@ -10,7 +10,7 @@ Los participantes serán capaces de integrar la ejecución de consultas para car
 
 ### Capítulo 2
 
-- [Instalación de ambiente (Spark, Python y bibliotecas)](Capitulo02/README.md)
+- [Instalación de ambiente (Spark, Python y bibliotecas)](Capítulo2/README.md)
   - Descripción: Realizar practica 1. instalación de ambiente (spark, python y bibliotecas) en el contexto de los contenidos del Capítulo 2. Lenguaje Python en Spark.
   - Duración estimada: 60 min
 
